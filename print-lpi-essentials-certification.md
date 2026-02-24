@@ -6,6 +6,7 @@ I downloaded the certificate as a PDF and printed it directly through Chrome’s
 I logged in to the Linux Professional Institute (LPI) portal and downloaded my certificate as a PDF.
 The file saved to:
 Downloads\LPI-Essentials-Certificate.pdf
+[LE (1).pdf](https://github.com/user-attachments/files/25508178/LE.1.pdf)
 
 
 📄 2. Opened the Certificate in Google Chrome
@@ -33,24 +34,21 @@ This opened Chrome’s print preview.
 Under Destination, I chose:
 HP DeskJet 2800 series
 
-(or whichever printer I was using)
 I confirmed that the printer was online and connected to Wi‑Fi.
 
 🔧 5. Adjusted Print Settings
 To ensure the certificate printed correctly, I set:
-✔ Color: No color
+✔ Color: Black & white
 Because the uses alot more ink.
-✔ Layout: Portrait
-✔ Paper Size: Letter – 8.5 x 11 in
-(Standard U.S. sheet size)
-✔ Scale: Fit to Printable Area / Fit to Page
-Prevents cut‑off borders.
-✔ Margins: Default
-Chrome’s preview allowed me to confirm the certificate looked correct before printing.
+✔ Scale: Fit to papper
+Fit the cert onto the papper without cut-off.
+✔ DPI: 300 DPI is standard for certificates.
+It ensures text, borders, and logos are sharp.
 
 🖨️ 6. Printed the Certificate
 After confirming settings, I clicked:
 Print
+<img width="1752" height="1151" alt="Screenshot_2026_02_23-2" src="https://github.com/user-attachments/assets/b6cf9d5e-795f-409c-a4f2-0c5943502322" />
 
 Chrome sent the PDF to the printer, and the certificate printed successfully.
 
@@ -76,9 +74,14 @@ If the printer wasn’t listed there, Chrome won’t show it either.
 
 ❗ Printing wont print
 I checked:
-Printer Ink
-Printer cover isn't covering the paper, blocking exit.
+Printer Ink,
+Paper supply,
+Print is not flashing,
+Printer cover (ensuring it wasn’t blocking paper out
+
+
 
 ✅ Result
 I successfully printed my LPI Linux Essentials certificate in full color using Google Chrome on Windows 11.
 This method works consistently and avoids using any third‑party PDF applications.
+![Cert_Printed](https://github.com/user-attachments/assets/777c5340-f224-4350-9186-33deed5c9499)
